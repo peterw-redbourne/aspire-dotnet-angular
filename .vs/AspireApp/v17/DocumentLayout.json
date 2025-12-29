@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\aspire angular\\AspireApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267F055D-89B3-4136-A4DD-3F2961047782}|AspireApp.AppHost\\AspireApp.AppHost.csproj|c:\\dev\\aspire angular\\aspireapp\\aspireapp.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267F055D-89B3-4136-A4DD-3F2961047782}|AspireApp.AppHost\\AspireApp.AppHost.csproj|solutionrelative:aspireapp.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D7790-E6C6-41B1-AD98-EDF2F7AB6CCD}|AspireApp.Web\\AspireApp.Web.csproj|c:\\dev\\aspire angular\\aspireapp\\aspireapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D7790-E6C6-41B1-AD98-EDF2F7AB6CCD}|AspireApp.Web\\AspireApp.Web.csproj|solutionrelative:aspireapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\dev\\aspire angular\\AspireApp\\AspireApp.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "AspireApp.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\dev\\aspire angular\\AspireApp\\AspireApp.AppHost\\AppHost.cs",
+              "RelativeToolTip": "AspireApp.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:04:11.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\aspire angular\\AspireApp\\AspireApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AspireApp.Web\\Program.cs",
+              "ToolTip": "C:\\dev\\aspire angular\\AspireApp\\AspireApp.Web\\Program.cs",
+              "RelativeToolTip": "AspireApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:56:25.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
